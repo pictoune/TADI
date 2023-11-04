@@ -31,7 +31,9 @@ This repository contains practical works ("Travaux Pratiques" in french) I compl
 - **Code, Instructions & Report**: [TP_graphcut.ipynb](https://github.com/pictoune/TADI/blob/main/TP_graphcut/TP_graphcut_part_1.ipynb)
 
 ## TP 6: Optical Flow
-- **Code & report**: [TP_optical_flow](https://github.com/pictoune/TADI/blob/main/TP_optical_flow)
+- **Code**: [code](https://github.com/pictoune/TADI/tree/main/TP_optical_flow/code)
+- **Instructions**: [instructions_TP_optical_flow](https://github.com/pictoune/TADI/blob/main/TP_optical_flow/instructions_TP_optical_flow.pdf)
+- **Report**: [report_TP_optical_flow](https://github.com/pictoune/TADI/blob/main/TP_optical_flow/report_TP_optical_flow.pdf)
 
 ## TP 7: Scale Space
 - **Code & report**: [TP_scale_space](https://github.com/pictoune/TADI/blob/main/TP_scale_space)
