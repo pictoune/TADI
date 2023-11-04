@@ -13,13 +13,13 @@ This repository contains practical works ("Travaux Pratiques" in french) I compl
 
 ## TP 1: Mathematical Morphology
 - **Code**: [TP_morpho.ipynb](https://github.com/pictoune/TADI/blob/main/TP_math_morpho/TP_morpho.ipynb)
-- **Instructions**: [instructions_TP_math_morpho.pdf](https://github.com/pictoune/TADI/blob/main/TP_math_morpho/instructions_PW_math_morpho.pdf)
-- **Report**: [report_TP_math_morpho.pdf](https://github.com/pictoune/TADI/blob/main/TP_math_morpho/report_PW_math_morpho.pdf)
+- **Instructions**: [PDF](https://github.com/pictoune/TADI/blob/main/TP_math_morpho/instructions_PW_math_morpho.pdf)
+- **Report**: [PDF](https://github.com/pictoune/TADI/blob/main/TP_math_morpho/report_PW_math_morpho.pdf)
 
 ## TP 2: Deformable Models
 - **Code**: [deformable_models.ipynb](https://github.com/pictoune/TADI/blob/main/TP_deformable_models/deformable_models.ipynb)
-- **Instructions**: [instructions_TP_deformable_models.pdf](https://github.com/pictoune/TADI/blob/main/TP_deformable_models/instructions_TP_deformable_models.pdf)
-- **Report**: [report_TP_deformable_models.pdf](https://github.com/pictoune/TADI/blob/main/TP_deformable_models/rapport_TP_modeles_deformables.pdf)
+- **Instructions**: [PDF](https://github.com/pictoune/TADI/blob/main/TP_deformable_models/instructions_TP_deformable_models.pdf)
+- **Report**: [PDF](https://github.com/pictoune/TADI/blob/main/TP_deformable_models/rapport_TP_modeles_deformables.pdf)
 
 ## TP 3: Markov Models
 - **Code, Instructions & Report**: [TP_Markov.ipynb](https://github.com/pictoune/TADI/blob/main/TP_Markov.ipynb)
@@ -32,12 +32,12 @@ This repository contains practical works ("Travaux Pratiques" in french) I compl
 
 ## TP 6: Optical Flow
 - **Code**: [code](https://github.com/pictoune/TADI/tree/main/TP_optical_flow/code)
-- **Instructions**: [instructions_TP_optical_flow](https://github.com/pictoune/TADI/blob/main/TP_optical_flow/instructions_TP_optical_flow.pdf)
-- **Report**: [report_TP_optical_flow](https://github.com/pictoune/TADI/blob/main/TP_optical_flow/report_TP_optical_flow.pdf)
+- **Instructions**: [PDF](https://github.com/pictoune/TADI/blob/main/TP_optical_flow/instructions_TP_optical_flow.pdf)
+- **Report**: [PDF](https://github.com/pictoune/TADI/blob/main/TP_optical_flow/report_TP_optical_flow.pdf)
 
 ## TP 7: Scale Space
 - **Code**: [code](https://github.com/pictoune/TADI/tree/main/TP_scale_space/code)
-- **Report**: [report_scale_space](https://github.com/pictoune/TADI/blob/main/TP_scale_space/report_scale_space.pdf)
+- **Report**: [PDF](https://github.com/pictoune/TADI/blob/main/TP_scale_space/report_scale_space.pdf)
 
 ## License
 
