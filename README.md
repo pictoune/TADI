@@ -22,24 +22,19 @@ This repository contains practical works ("Travaux Pratiques" in french) I compl
 - **Report**: [report_TP_deformable_models.pdf](https://github.com/pictoune/TADI/blob/main/TP_deformable_models/rapport_TP_modeles_deformables.pdf)
 
 ## TP 3: Markov Models
-
-- [Markov Models Notebook](https://github.com/pictoune/TADI/blob/main/TP_Markov.ipynb)
+- **Code, Instructions & Report**: [TP_Markov.ipynb](https://github.com/pictoune/TADI/blob/main/TP_Markov.ipynb)
 
 ## TP 4: Markov Random Fields Models
-
-- [Markov Random Fields Models Notebook](https://github.com/pictoune/TADI/blob/main/TP_MRF.ipynb)
+- **Code, Instructions & Report**:[TP_MRF.ipynb](https://github.com/pictoune/TADI/blob/main/TP_MRF.ipynb)
 
 ## TP 5: Graphcut-Based Approaches
-
-- [Graphcut Part 1 Notebook](https://github.com/pictoune/TADI/blob/main/TP_graphcut/TP_graphcut_part_1.ipynb)
+- **Code, Instructions & Report**:[TP_graphcut.ipynb](https://github.com/pictoune/TADI/blob/main/TP_graphcut/TP_graphcut_part_1.ipynb)
 
 ## TP 6: Optical Flow
-
-- [Optical Flow Notebook](https://github.com/pictoune/TADI/blob/main/TP_optical_flow)
+- **Code & report**: [TP_optical_flow](https://github.com/pictoune/TADI/blob/main/TP_optical_flow)
 
 ## TP 7: Scale Space
-
-- [Scale Space Notebook](https://github.com/pictoune/TADI/blob/main/TP_scale_space)
+- **Code & report**: [TP_scale_space](https://github.com/pictoune/TADI/blob/main/TP_scale_space)
 
 ## License
 
