@@ -25,10 +25,10 @@ This repository contains practical works ("Travaux Pratiques" in french) I compl
 - **Code, Instructions & Report**: [TP_Markov.ipynb](https://github.com/pictoune/TADI/blob/main/TP_Markov.ipynb)
 
 ## TP 4: Markov Random Fields Models
-- **Code, Instructions & Report**:[TP_MRF.ipynb](https://github.com/pictoune/TADI/blob/main/TP_MRF.ipynb)
+- **Code, Instructions & Report**: [TP_MRF.ipynb](https://github.com/pictoune/TADI/blob/main/TP_MRF.ipynb)
 
 ## TP 5: Graphcut-Based Approaches
-- **Code, Instructions & Report**:[TP_graphcut.ipynb](https://github.com/pictoune/TADI/blob/main/TP_graphcut/TP_graphcut_part_1.ipynb)
+- **Code, Instructions & Report**: [TP_graphcut.ipynb](https://github.com/pictoune/TADI/blob/main/TP_graphcut/TP_graphcut_part_1.ipynb)
 
 ## TP 6: Optical Flow
 - **Code & report**: [TP_optical_flow](https://github.com/pictoune/TADI/blob/main/TP_optical_flow)
