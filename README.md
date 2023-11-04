@@ -36,7 +36,8 @@ This repository contains practical works ("Travaux Pratiques" in french) I compl
 - **Report**: [report_TP_optical_flow](https://github.com/pictoune/TADI/blob/main/TP_optical_flow/report_TP_optical_flow.pdf)
 
 ## TP 7: Scale Space
-- **Code & report**: [TP_scale_space](https://github.com/pictoune/TADI/blob/main/TP_scale_space)
+- **Code**: [code](https://github.com/pictoune/TADI/tree/main/TP_scale_space/code)
+- **Report**: [report_scale_space](https://github.com/pictoune/TADI/blob/main/TP_scale_space/report_scale_space.pdf)
 
 ## License
 
