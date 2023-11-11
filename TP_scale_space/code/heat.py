@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 def heat(I, t_step):
     """
-    The function applies a heat diffusion process to an image `I` for a fixed number of iterations.
+    Applies a heat diffusion process to an image `I` for a fixed number of iterations.
     This process is akin to applying a discrete version of the heat equation to the image.
     The result is a smoothed version of the original image.
 

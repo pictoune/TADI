@@ -5,7 +5,7 @@ from scipy import signal, ndimage
 
 def compute_grad(I):
     """
-    Compute the gradient of an image.
+    Computes the gradient of an image.
 
     I: The input image.
 
@@ -25,7 +25,7 @@ def compute_grad(I):
 
 def enhance(I, t_step, k, sigma):
     """
-    Enhance an image using the Perona-Malik diffusion equation.
+    Enhances an image using the Perona-Malik diffusion equation.
 
     Args:
         I: The input image.
