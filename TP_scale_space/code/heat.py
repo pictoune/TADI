@@ -1,43 +1,39 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-def heat(I,t_step):
-    w = I.shape[0]
-    h = I.shape[1]
+
+def heat(I, t_step):
+    """
+    The function applies a heat diffusion process to an image `I` for a fixed number of iterations.
+    This process is akin to applying a discrete version of the heat equation to the image.
+    The result is a smoothed version of the original image.
+
+    Args:
+        I: The input image.
+        t_step: The time step for the heat diffusion.
+
+    Returns:
+        The image after applying heat diffusion.
+    """
     im = I.copy()
-    I1 = np.zeros((w+2,h+2))
+
     for _ in range(20):
-        I1[1:w+1,1:h+1] = im
-        I1[0,1:h+1] = im[0,:]
-        I1[w+1,1:h+1] = im[w-1,:]
-        I1[1:w+1,0] = im[:,0]
-        I1[1:w+1,h+1] = im[:,h-1]
-        for i in range(w):
-            for j in range(h):
-                im[i,j] = I1[i+1,j+1] + t_step*(I1[i+2,j+1]-2*I1[i+1,j+1]+I1[i,j+1]+I1[i+1,j+2]-2*I1[i+1,j+1]+I1[i+1,j])
+        I1 = np.pad(im, 1, mode="edge")
+        im = I1[1:-1, 1:-1] + t_step * (
+            I1[2:, 1:-1]
+            - 2 * I1[1:-1, 1:-1]
+            + I1[:-2, 1:-1]
+            + I1[1:-1, 2:]
+            - 2 * I1[1:-1, 1:-1]
+            + I1[1:-1, :-2]
+        )
+
     return im
+
 
 fig = plt.figure()
 
-I = plt.imread('img/synpic45657.jpg')
+I = plt.imread("TP_scale_space/test_img.jpg")
 
-# fig.add_subplot(2,2,1)
-# plt.title(r'$\Delta t = 0.1$')
-# plt.imshow(heat(I[:,:,0],0.1),cmap='gray')
-
-# fig.add_subplot(2,2,2)
-# plt.title(r'$\Delta t = 0.22$')
-# plt.imshow(heat(I[:,:,0],0.22),cmap='gray')
-
-# fig.add_subplot(2,2,3)
-# plt.title(r'$\Delta t = 0.27$')
-# plt.imshow(heat(I[:,:,0],0.27),cmap='gray')
-
-# fig.add_subplot(2,2,4)
-# plt.title(r'$\Delta t = 0.4$')
-# plt.imshow(heat(I[:,:,0],0.4),cmap='gray')
-
-plt.imshow(heat(I[:,:,0],0.22),cmap='gray')
+plt.imshow(heat(I[:, :, 0], 0.22), cmap="gray")
 plt.show()
-# plt.imshow(I[:,:,0],cmap='gray')
-# plt.show()
