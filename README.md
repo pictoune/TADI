@@ -53,6 +53,27 @@ Clone the TADI repository to your local machine using the following commands:
 git clone https://github.com/pictoune/TADI.git
 cd TADI
 ```
+## Step 2: Create the required Conda Environment
+Set up the required environment using Conda:
+  ```bash
+  conda env create -f environment.yml -n TADI_env
+  ```
+## Step 3: Running the code
+- If your practical work (PW) code is written in .py files, you must first activate the conda environment: 
+  ```bash
+  conda activate TADI_env
+  ```
+then you can run it:
+  ```bash
+  python <script_name>.py
+  ```
+- Otherwise if it is written in a jupyter notebook, you must first launch the notebook:
+  ```bash
+    jupyter-notebook
+  ```
+  Once Jupyter Notebook is open, navigate to the notebook you want to run. Then, change the kernel to the TADI environment:
+  Go to `Kernel` -> `Change kernel` -> `Python [conda env:TADI_env]`.
+  Finally you can run the cells.
 
 ## License
 
