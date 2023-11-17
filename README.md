@@ -62,12 +62,11 @@ Set up the required environment using Conda:
 - If your practical work (PW) code is written in .py files, you must first activate the conda environment: 
   ```bash
   conda activate TADI_env
-  ```
-then you can run it:
+  ```then you can run it:
   ```bash
   python <script_name>.py
   ```
-- Otherwise if it is written in a jupyter notebook, you must first launch the notebook:
+- Otherwise if it is written in a jupyter notebook, you need to initiate the notebook first:
   ```bash
     jupyter-notebook
   ```
