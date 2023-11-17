@@ -46,6 +46,13 @@ This section contains Python code (Jupyter notebook) for computing the optical f
 - **Code**: [code](https://github.com/pictoune/TADI/tree/main/PW_scale_space/code)
 - **Report**: [PDF](https://github.com/pictoune/TADI/blob/main/PW_scale_space/report_scale_space.pdf)
 
+# Usage 
+## Step 1: Clone the Repository
+Clone the TADI repository to your local machine using the following commands:
+```bash
+git clone https://github.com/pictoune/TADI.git
+cd TADI
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
