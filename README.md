@@ -59,7 +59,7 @@ Set up the required environment using Conda:
   conda env create -f environment.yml -n TADI_env
   ```
 ## Step 3: Running the code
-- If your practical work (PW) code is written in .py files, you must first activate the conda environment: 
+- If your practical work (PW) code is written in *.py* files, you must first activate the conda environment: 
   ```bash
   conda activate TADI_env
   ```
@@ -67,7 +67,7 @@ Set up the required environment using Conda:
   ```bash
   python <script_name>.py
   ```
-- Otherwise if it is written in a jupyter notebook, you need to initiate the notebook first:
+- Otherwise if it is written in a *jupyter notebook*, you need to initiate the notebook first:
   ```bash
     jupyter-notebook
   ```
