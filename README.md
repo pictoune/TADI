@@ -73,7 +73,7 @@ Set up the required environment using Conda:
   ```
   Once Jupyter Notebook is open, navigate to the notebook you want to run. Then, change the kernel to the TADI environment:
   Go to `Kernel` -> `Change kernel` -> `Python [conda env:TADI_env]`.
-  Finally you can run the cells.
+  Then you can run the cells.
 
 ## License
 
