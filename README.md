@@ -1,5 +1,5 @@
 # TADI: Traitement Avancé des Images (Advanced Image Processing)
-This repository contains Practical Works (PW) I completed (other students) as part of my master's advanced image processing course (https://perso.telecom-paristech.fr/bloch/P6Image/TADI.html).
+This repository contains practical works (PW) I completed (other students) as part of my master's advanced image processing course (https://perso.telecom-paristech.fr/bloch/P6Image/TADI.html).
 
 ## Table of Contents
 
