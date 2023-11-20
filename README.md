@@ -5,7 +5,7 @@ This repository contains practical works (PW) I completed (other students) as pa
 
 - [PW n°1: Mathematical Morphology](#pw-n1-mathematical-morphology)
 - [PW n°2: Deformable Models](#pw-n2-deformable-models)
-- [PW n°3: Markov Models](#pw-n3-markov-models)
+- [PW n°3: Markovian Models](#pw-n3-markovian-models)
 - [PW n°4: Markov Random Fields Models](#pw-n4-markov-random-fields-models)
 - [PW n°5: Graphcut-Based Approaches](#pw-n5-graphcut-based-approaches)
 - [PW n°6: Scale Space](#pw-n6-scale-space)
