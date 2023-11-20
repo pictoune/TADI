@@ -3,12 +3,12 @@ This repository contains practical works (PW) I completed (other students) as pa
 
 ## Table of Contents
 
-- [PW n°1: Mathematical Morphology](#pw-1-mathematical-morphology)
-- [PW n°2: Deformable Models](#pw-2-deformable-models)
-- [PW n°3: Markov Models](#pw-3-markov-models)
-- [PW n°4: Markov Random Fields Models](#pw-4-markov-random-fields-models)
-- [PW n°5: Graphcut-Based Approaches](#pw-5-graphcut-based-approaches)
-- [PW n°6: Scale Space](#pw-6-scale-space)
+- [PW n°1: Mathematical Morphology](#pw-n1-mathematical-morphology)
+- [PW n°2: Deformable Models](#pw-n2-deformable-models)
+- [PW n°3: Markov Models](#pw-n3-markov-models)
+- [PW n°4: Markov Random Fields Models](#pw-n4-markov-random-fields-models)
+- [PW n°5: Graphcut-Based Approaches](#pw-n5-graphcut-based-approaches)
+- [PW n°6: Scale Space](#pw-n6-scale-space)
 
 ## PW n°1: Mathematical Morphology
 This section contains Python code (Jupyter notebook) and instructions for processing images with morphological operators, and a report presenting the results.
