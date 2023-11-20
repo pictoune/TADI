@@ -5,7 +5,7 @@ This repository contains practical works (PW) I completed (other students) as pa
 
 - [PW n°1: Mathematical Morphology](#pw-n1-mathematical-morphology)
 - [PW n°2: Deformable Models](#pw-n2-deformable-models)
-- [PW n°3: Markovian Models](#pw-n3-markovian-models)
+- [PW n°3: Markov Models](#pw-n3-markov-models)
 - [PW n°4: Markov Random Fields Models](#pw-n4-markov-random-fields-models)
 - [PW n°5: Graphcut-Based Approaches](#pw-n5-graphcut-based-approaches)
 - [PW n°6: Scale Space](#pw-n6-scale-space)
@@ -22,8 +22,8 @@ This section contains Python (Jupyter notebook) code and instructions for segmen
 - **Code**: [deformable_models.ipynb](https://github.com/pictoune/TADI/blob/main/PW_deformable_models/deformable_models.ipynb)
 - **Report**: [PDF](https://github.com/pictoune/TADI/blob/main/PW_deformable_models/rapport_PW_modeles_deformables.pdf)
 
-## PW n°3: Markovian Models
-This section contains Python code (Jupyter notebook) and instructions for processing images with Markovian models, and a report presenting the results.
+## PW n°3: Markov Models
+This section contains Python code (Jupyter notebook) and instructions for processing images with Markov models, and a report presenting the results.
 - **Code, Instructions & Report**: [PW_Markov.ipynb](https://github.com/pictoune/TADI/blob/main/PW_Markov.ipynb)
 
 ## PW n°4: Markov Random Fields Models
