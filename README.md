@@ -39,19 +39,19 @@ This section contains Python code (Jupyter notebook) for computing the optical f
 - **Code**: [code](https://github.com/pictoune/TADI/tree/main/PW_scale_space/code)
 - **Report**: [PDF](https://github.com/pictoune/TADI/blob/main/PW_scale_space/report_scale_space.pdf)
 
-# Usage 
-## Step 1: Clone the Repository
+## Usage 
+### Step 1: Clone the Repository
 Clone the TADI repository to your local machine using the following commands:
 ```bash
 git clone https://github.com/pictoune/TADI.git
 cd TADI
 ```
-## Step 2: Create the required Conda Environment
+### Step 2: Create the required Conda Environment
 Set up the required environment using Conda:
   ```bash
   conda env create -f environment.yml -n TADI_env
   ```
-## Step 3: Running the code
+### Step 3: Running the code
 - If your practical work (PW) code is written in *.py* files, you must first activate the conda environment: 
   ```bash
   conda activate TADI_env
