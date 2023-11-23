@@ -27,7 +27,7 @@ This section contains Python code (Jupyter notebook) and instructions for proces
 - **Code, Instructions & Report**: [PW_Markov.ipynb](https://github.com/pictoune/TADI/blob/main/PW_Markov.ipynb)
 
 ## PW n°4: Markov Random Fields Models
-This section contains Python code (Jupyter notebook) and instructions for processing images with Markovian Random Fields models, and a report presenting the results.
+This section contains Python code (Jupyter notebook) and instructions for processing images with Markov Random Fields models, and a report presenting the results.
 - **Code, Instructions & Report**: [PW_MRF.ipynb](https://github.com/pictoune/TADI/blob/main/PW_MRF.ipynb)
 
 ## PW n°5: Graphcut-Based Approaches
